@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help on iOS testing hacks and tips
 - 💬 Ask me about anything QA
 - 📫 How to reach me: bettkevin757@gmail.com or on [Linkedin](https://www.linkedin.com/in/kevinbett/)
-- ⚡ Fun fact: I am a certified PSM1 Scrum Master & lowkey into UI UX design!
+- ⚡ Fun fact: I am a certified PSM1 Scrum Master!
