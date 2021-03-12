@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 iOS Developer & test engineer
+- 🔭 Software test engineer
 - 🌱 Python, Javascript & Swift
 - 👯 I’m looking to collaborate on iOS development
 - 💬 Ask me about anything Software QA
