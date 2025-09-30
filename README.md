@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Software test engineer
+- 🔭 Software Development engineer in test (SDET)
 - 🌱 Python, Javascript & Swift
 - 👯 I’m looking to collaborate on iOS development
 - 💬 Ask me about anything Software QA
